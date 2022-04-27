@@ -5,5 +5,6 @@ public class VSTest {
         System.out.println("VSTest versionOne, on branch master!!!");
         System.out.println("VSTest versionTwo, on branch master!!!");
         System.out.println("VSTest versionThird, on branch master!!!");
+        System.out.println("VSTest versionOne, on branch hot-fix!!!");
     }
 }
