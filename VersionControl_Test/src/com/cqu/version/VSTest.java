@@ -12,5 +12,6 @@ public class VSTest {
         System.out.println("VSTest versionThree, on branch hot-fix!!!");
         System.out.println("VSTest versionSix, on branch master!!!");
         System.out.println("VSTest versionOne, on branch develop!!!");
+        System.out.println("idea pull codes from github test!!!");
     }
 }
